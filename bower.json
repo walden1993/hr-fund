@@ -1,0 +1,21 @@
+{
+  "name": "hr-fund",
+  "description": "三好资本前端工程",
+  "main": "index.js",
+  "authors": [
+    "hejiahua/walden"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
